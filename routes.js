@@ -11,6 +11,9 @@ const defaultJson = {
     "message": "success"
 }
 
+console.log(456)
+
+console.log(123)
 
 router.post('/gogs-jenkins/*', function(req, res) {
 
